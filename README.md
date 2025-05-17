@@ -4,7 +4,7 @@
 
 A modern and sleek desktop application to download music from Beatstars and YouTube.
 
-![Youtube/Beatstar Downloader](https://i.imgur.com/placeholder.png)
+![Youtube/Beatstar Downloader](./pictures/app.png)
 
 ## ✨ Features
 
